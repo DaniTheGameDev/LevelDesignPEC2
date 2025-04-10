@@ -1,0 +1,319 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acf3e339b8909d24a8e6aba780de87ff, type: 3}
+  m_Name: Level6
+  m_EditorClassIdentifier: 
+  levels:
+  - prefabName: Wall
+    position: {x: -5, y: 5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -5, y: 4, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -5, y: 3, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -5, y: 2, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -5, y: 1, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -5, y: 0, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -5, y: -1, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -5, y: -2, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -5, y: -3, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -5, y: -3.9999998, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -5, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -4, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -3, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -2, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -1, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 0, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 1, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 2, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 3, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 3.9999998, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: -5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: -3.9999998, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: -3, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: -2, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: -1, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: 0, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: 1, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: 2, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: 3, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: 4, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 5, y: 5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 3.9999998, y: 5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 3, y: 5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 2, y: 5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 1, y: 5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: 0, y: 5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -1, y: 5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -2, y: 5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -3, y: 5, z: -0.049999997}
+  - prefabName: Wall
+    position: {x: -4, y: 5, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -4, y: 4, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -3, y: 4, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -2, y: 4, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -1, y: 4, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 0, y: 4, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 1, y: 4, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 2, y: 4, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3, y: 4, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3.9999998, y: 4, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3.9999998, y: 3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3, y: 3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 2, y: 3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 1, y: 3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 0, y: 3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -1, y: 3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -2, y: 3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -3, y: 3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -4, y: 3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -4, y: 2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -3, y: 2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -2, y: 2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -1, y: 2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 0, y: 2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 1, y: 2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 2, y: 2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3, y: 2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3.9999998, y: 2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3.9999998, y: 1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3, y: 1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 2, y: 1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 1, y: 1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 0, y: 1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -1, y: 1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -2, y: 1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -3, y: 1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -4, y: 1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -4, y: 0, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -3, y: 0, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -2, y: 0, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -1, y: 0, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 0, y: 0, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 1, y: 0, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 2, y: 0, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3, y: 0, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3.9999998, y: 0, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3.9999998, y: -1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3, y: -1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 2, y: -1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 1, y: -1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 0, y: -1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -1, y: -1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -2, y: -1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -3, y: -1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -4, y: -1, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -4, y: -2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -3, y: -2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -2, y: -2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -1, y: -2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 0, y: -2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 1, y: -2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 2, y: -2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3, y: -2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3.9999998, y: -2, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3.9999998, y: -3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3, y: -3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 2, y: -3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 1, y: -3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 0, y: -3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -1, y: -3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -2, y: -3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -3, y: -3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -4, y: -3, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -4, y: -3.9999998, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -3, y: -3.9999998, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -2, y: -3.9999998, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: -1, y: -3.9999998, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 0, y: -3.9999998, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 1, y: -3.9999998, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 2, y: -3.9999998, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3, y: -3.9999998, z: -0.049999997}
+  - prefabName: Ground
+    position: {x: 3.9999998, y: -3.9999998, z: -0.049999997}
+  - prefabName: Player
+    position: {x: 0, y: 0, z: -0.099999994}
+  - prefabName: Box
+    position: {x: 0, y: 1, z: -0.099999994}
+  - prefabName: Box
+    position: {x: 0, y: -1, z: -0.099999994}
+  - prefabName: Box
+    position: {x: -1, y: 0, z: -0.099999994}
+  - prefabName: Box
+    position: {x: 1, y: 0, z: -0.099999994}
+  - prefabName: Target
+    position: {x: 3.9999998, y: 4, z: -0.099999994}
+  - prefabName: Target
+    position: {x: -4, y: -3.9999998, z: -0.099999994}
+  - prefabName: Target
+    position: {x: 3.9999998, y: -3.9999998, z: -0.099999994}
+  - prefabName: Target
+    position: {x: -4, y: 4, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: -1, y: 1, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: -1, y: -1, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: 1, y: -1, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: 1, y: 1, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: -3, y: 3, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: -2, y: 2, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: -3, y: -3, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: -2, y: -2, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: 2, y: -2, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: 3, y: -3, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: 2, y: 2, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: 3, y: 3, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: 3, y: 0, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: -3, y: 0, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: 0, y: 3, z: -0.099999994}
+  - prefabName: Wall
+    position: {x: 0, y: -3, z: -0.099999994}
+  - prefabName: Ground
+    position: {x: -1, y: 1, z: -0.14999999}
+  - prefabName: Ground
+    position: {x: -1, y: -1, z: -0.14999999}
+  - prefabName: Ground
+    position: {x: 1, y: -1, z: -0.14999999}
+  - prefabName: Ground
+    position: {x: 1, y: 1, z: -0.14999999}
+  - prefabName: Wall
+    position: {x: 1, y: 1, z: -0.19999999}
+  - prefabName: Wall
+    position: {x: -1, y: -1, z: -0.19999999}
